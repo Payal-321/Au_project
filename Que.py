@@ -8,11 +8,11 @@ def fact(n):
         total=total*i
         return total
     
-    def fib(n):
-        if n==0 or n==1:
-            return 1
-        else:
-            return fib(n-1) + fib(n-2)
+def fib(n):
+    if n==0 or n==1:
+        return 1
+    else:
+        return fib(n-1) + fib(n-2)
         
 def str(n):
     for i in range(1,n):
