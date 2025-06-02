@@ -1,4 +1,15 @@
-# Au_project
-A clear and concise document that reflects my ability. 
-This Python project is designed to [brief description of what the project does]. It utilizes Python's core features along with relevant libraries to solve a specific problem or implement a particular functionality.
+📂 Projects
+🧠 ML Model Deployment
+Built and deployed a machine learning model using FastAPI, Docker, and AWS – full MLOps pipeline.
 
+📉 Customer Churn Prediction
+End-to-end churn prediction using logistic regression and XGBoost. Includes EDA, feature engineering, and evaluation.
+
+🧹 Data Cleaning Toolkit
+A collection of Python functions for fast, reusable data cleaning in Pandas.
+
+🗣️ NLP Sentiment Analyzer
+Transformer-based model for sentiment classification on Twitter data using Hugging Face and PyTorch.
+
+📊 Sales Dashboard
+Interactive sales dashboard using Plotly Dash and Pandas – real-time filtering and insights.
